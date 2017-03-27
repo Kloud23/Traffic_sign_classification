@@ -1,2 +1,4 @@
 # Traffic_sign_classification
-Project executed as part of the Udacity Self Driving Car Nanodegree
+[image1]: ./examples/classi.gif "classi"
+
+This project was executed as part of the Udacity Self Driving Car Nanodegree.
